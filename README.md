@@ -23,7 +23,7 @@ To run this script, you will need Python installed along with the following libr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/turman17/music_recommender.git/spotify-song-recommender.git
+   git clone https://github.com/turman17/music_recommender.git
    ```
 
 2. **Navigate to the directory:**
